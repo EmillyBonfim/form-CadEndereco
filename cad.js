@@ -19,5 +19,7 @@ const limparFormulario = () =>{
 // Obs: LOGRADOURO: ruas, avenidas, alamedas, lugar, como praças, jardins, hortos, passeios etc.
 // => ARROW FUNCTION : Arrow = flecha, por causa do 
 
-const eNumero = (numero) => /^[0-9]+$/.test(numero); //verificando se só há números entre 0 e 9 no campo de CEP
+const eNumero = (numero) => /^[0-9]+$/.test(numero); // verificando se só há números entre 0 e 9 no campo de CEP
 
+const cepValido = (cep) => cep.length == 8 && eNumero(cep); // Validado a quantidade de números digitados no campo de cep, que possui 8 números
+// length propriedade que verifica quantidade de caracteres dentro do argumento cep
