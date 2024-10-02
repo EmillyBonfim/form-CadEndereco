@@ -6,6 +6,10 @@
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" >
 <img  align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
 
+![viacep](img/viacep.png)
+
+![colorhunt](img/colorhunt.png)
+
 viacep
           
 
