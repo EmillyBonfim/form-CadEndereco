@@ -4,7 +4,7 @@
 
 // Função para limpar formulário. 
 //Após uma consulta, os campos preenchidos anteriormente  vão ser apagados para que um novo endereço seja apresentado
-const limparFormulario = () =>{
+const limparFormulario = () => {
 
     document.getElementById('cep').value = '';
     document.getElementById('logradouro').value = '';
@@ -30,7 +30,7 @@ const cepValido = (cep) => cep.length == 8 && eNumero(cep); // Validado a quanti
 // length propriedade que verifica quantidade de caracteres dentro do argumento cep
 
 // Função para preencher formulários como campos de API
-const preencherFormulários = (endereco) =>{
+const preencherFormulario = (endereco) => {
     document.getElementById('logradouro').value = endereco.logradouro;
     document.getElementById('bairro').value = endereco.bairro;
     document.getElementById('localidade').value = endereco.localidade;
