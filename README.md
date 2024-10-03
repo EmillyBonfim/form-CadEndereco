@@ -1,24 +1,19 @@
-# Formulário de Cadastro de Endereço
+# **Formulário de Cadastro de Endereço**
 
 
 
-## Sites Utilizados 
 
+## **Sites Utilizados**
 
+<br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" >
 <img  align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
+<img align="center" height="30" width="40" src="img/colorhunt.png">
+<img align="center" height="30" width="60" src="img/viacep.png">
 
-![viacep](img/viacep.png)
+<br>
 
-![colorhunt](img/colorhunt.png)
-
-viacep
-          
-
-ColorHunt
-
-
-## Tecnologias
+## **Tecnologias**
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +28,7 @@ ColorHunt
  
 ##
  
-## Quer me conhecer?
+## **Quer me conhecer?**
 <br>
  
 <div>
