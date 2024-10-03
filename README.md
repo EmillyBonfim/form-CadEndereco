@@ -1,3 +1,7 @@
+<img src="img/banner.png">
+
+<br>
+
 # **Formulário de Cadastro de Endereço**
 
 
@@ -6,10 +10,13 @@
 ## **Sites Utilizados**
 
 <br>
+
+<div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" >
 <img  align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
 <img align="center" height="30" width="40" src="img/colorhunt.png">
 <img align="center" height="30" width="60" src="img/viacep.png">
+</div>
 
 <br>
 
