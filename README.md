@@ -50,14 +50,6 @@ O WebSite consiste em localizar o endereço por meio do CEP incerido pelo usuár
 
 ***const url = `https://viacep.com.br/ws/${cep.value}/json/`;*** | Aqui adicionamos uma ***URL*** em que o projeto utiliza os dados disponibilizados por esse site, fazendo uma conexão.
 
-
-
-
-
-
-
-
-
 ## **Interface**
 
 <img src="gif/testec.gif">
@@ -78,6 +70,12 @@ O WebSite consiste em localizar o endereço por meio do CEP incerido pelo usuár
    <img align="center" height="30" width="40" src="img/colorhunt.png">
 
 <br>
+
+## ***Referência***
+
+* [Alura](https://www.alura.com.br/)
+* [W3Schools](https://www.w3schools.com/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
 ## **Site utilizado para o consumo de API**
 <br>
